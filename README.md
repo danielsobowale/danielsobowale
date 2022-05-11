@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @danielsobowale
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Graphic Design Project for Now. 
 - 📫 You can reach me on instagram @danielsobowale.co
